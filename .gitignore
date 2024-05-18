@@ -1,0 +1,5 @@
+venv
+models/*
+!models/note
+.DS_Store
+__pycache__
