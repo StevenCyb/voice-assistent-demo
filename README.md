@@ -11,7 +11,7 @@ This text is fed into the third component, the LLM.
 This generates a response in text form.
 The fourth component synthesizes this text back into audio.
 
-<img src="media/overview.png" width="550px">
+<img src="media/flow.png" width="550px">
 
 I built the whole thing relatively quickly and as a kind of MVP, so bugs are not excluded.
 Nevertheless, if anyone wants to try it out, take a look at the setup.
